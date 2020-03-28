@@ -1,6 +1,6 @@
-hello
-bye
-learning Git
+git status
+git add filename.ext
+git add filename2.ext
 
-
-added again something
+git commit -m "commit msg"
+git push
